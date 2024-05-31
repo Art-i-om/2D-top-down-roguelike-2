@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1c7cafea5f5fd64da172d5ff9ef321b, type: 3}
+  m_Name: Input Setup
+  m_EditorClassIdentifier: 
+  LevelGraph: {fileID: 11400000, guid: 57c99912b4e982e40b730c5cddc66c4f, type: 2}
+  RoomTemplates:
+    NormalRoomTemplates:
+    - {fileID: 8940289630145199519, guid: 7b17ef56e7baef94495516997a2a0a3b, type: 3}
+    ShopRoomTemplates:
+    - {fileID: 8940289630145199519, guid: c2c11f14b4da29f46876b7f44dca671d, type: 3}
+    EntranceRoomTemplates:
+    - {fileID: 8940289630145199519, guid: 9dd798a6d99cb574c9934e83b3c18931, type: 3}
+    HubRoomTemplates:
+    - {fileID: 8940289630145199519, guid: 8f6f6b229247e4346b0479d0a2714b73, type: 3}
+    BossRoomTemplates:
+    - {fileID: 8940289630145199519, guid: 1f360eb74c02cba46a44528472bd5a62, type: 3}
+    RewardRoomTemplates:
+    - {fileID: 8940289630145199519, guid: 5624a81391b400d4abd33f4e0d7bd723, type: 3}
+    CorridorRoomTemplates:
+    - {fileID: 3840388848542394773, guid: c859f25f12cc8e1428155a6a8a43bbd8, type: 3}
+    - {fileID: 7349019907550914932, guid: 0e31a5e281cb9ca44b9073e0d53eeb76, type: 3}
